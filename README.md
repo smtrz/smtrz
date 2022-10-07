@@ -1,8 +1,8 @@
 ### Hey 👋, I am Tahir Raza
 
-<img align="right" alt="GIF" src="https://smtrz.github.io/img/hero/2.jpg" width="500" height="320" />
 
 <br>
+<img align="right" alt="GIF" src="https://smtrz.github.io/img/hero/2.jpg" width="500" height="320" />
 
 - 😍Android Developer By Heart
 - 📱 Worked on many IOT and telematics apps
