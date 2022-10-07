@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋, I am Tahir Raza
 
-<!--
-**smtrz/smtrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://smtrz.github.io/img/hero/2.jpg" width="500" height="320" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😍Android Developer By Heart
+- 📱 Worked on many IOT and telematics apps
+- 🚗 Significant contribution in Connected Cars
+- 📕 Certified Team Lead and technical mentor
+- 📝 Computer Systems Engineer & MS in Software Engineering
+- 💻 Open Source contributor with many active Android libraries
+- 🎤 Have spoken about Tech based enterpreneurship on forums
+
+---
